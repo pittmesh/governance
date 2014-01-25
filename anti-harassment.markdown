@@ -2,7 +2,7 @@
 
 *Document Last Updated: Jan 24, 2014*
 
-[Meta Mesh, LLC](http://www.metamesh.org), known simply as Meta Mesh, is dedicated to proving a harassment-free environment for its employees, volunteers, contractors, customers, and users. All forms of harassment relating to, but not limited to race, gender, sexuality, appearance, disability, education, skill level, life situation, etc, are forbidden and will not be tolerated under any circumstances.
+[Meta Mesh LLC](http://www.metamesh.org), known simply as Meta Mesh, is dedicated to proving a harassment-free environment for its employees, volunteers, contractors, customers, and users. All forms of harassment relating to, but not limited to race, gender, sexuality, appearance, disability, education, skill level, life situation, etc, are forbidden and will not be tolerated under any circumstances.
 
 All members are required to treat each other with professional respect. Meta Mesh does not tolerate any kind of disrespectful behavior including, but not limited to direct or indirect verbal harassment, physical harassment, inappropriate gestures, intimidation, stalking, belittling, or any kind of behavior that may make a member feel unwelcome in the organization.
 
