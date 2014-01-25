@@ -3,7 +3,7 @@
 Document Last Updated: Jan 24, 2014
 
 MetaMesh, LLC (known simply as MetaMesh) is dedicated to proving a harassment
-free environment for it's participants. All forms of harassment including (but
+free environment for it's participants. All forms of harassment relating to (but
 not limited to) race, gender, sexuality, appearance, disability, skill-level,
 etc, are forbidden and will not be tolerated under any circumstances.
 
