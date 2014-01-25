@@ -3,8 +3,8 @@
 *Document Last Updated: Jan 24, 2014*
 
 [Meta Mesh, LLC](http://www.metamesh.org), known simply as Meta Mesh,
-is dedicated to proving a  harassment-free environment for its employees,
-volunteers, contractors,customers, and users. All forms of harassment
+is dedicated to proving a harassment-free environment for its employees,
+volunteers, contractors, customers, and users. All forms of harassment
 relating to, but not limited to race, gender, sexuality, appearance,
 disability, skill level, etc, are forbidden and will not be tolerated under any
 circumstances.
