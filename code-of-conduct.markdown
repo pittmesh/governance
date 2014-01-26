@@ -4,11 +4,15 @@
 
 [Meta Mesh, LLC](http://www.metamesh.org), known simply as Meta Mesh, is a friendly and welcoming organization. Meta Mesh is an open organization that encourages inclusion and participation from anyone willing to contribute time, energy, and/or resources. Members who have a passion for Meta Mesh and its projects should feel welcome contributing regardless of skill level or ability.
 
-## Mutual Respect
+## Anti-Harassment Policy
 
-Meta Mesh requires its members to treat each other with professional respect at all times and expects everyone involved, e.g. employees, volunteers, and users, to abide by this code of conduct and our [anti-harassment policy](anti-harassment).
+Meta Mesh is dedicated to proving a harassment-free environment for its employees, volunteers, contractors, customers, and users. All forms of harassment relating to, but not limited to race, gender, sexuality, appearance, disability, education, skill level, life situation, etc, are forbidden and will not be tolerated under any circumstances.
 
-Meta Mesh may ask it's members to install equipment in the home or business of an individual who has volunteered their space for a project. Members should treat this individual and their space with the utmost respect at all times.
+All members are required to treat each other with professional respect. Meta Mesh does not tolerate any kind of disrespectful behavior including, but not limited to direct or indirect verbal harassment, physical harassment, inappropriate gestures, intimidation, stalking, belittling, or any kind of behavior that may make a member feel unwelcome in the organization.
+
+## Respect for Hosts and Property
+
+Meta Mesh may ask it's members to install equipment in the home or business of an individual who has volunteered their space for a project. Members should treat this individual and their space with the utmost respect at all times. Remember that while installing/servicing equipment we are a guest in this individual's home or business.
 
 ## Safety
 
