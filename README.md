@@ -1,6 +1,6 @@
 # Meta Mesh Governance Documents
 
-We, [Meta Mesh](http://www.metamesh.org) publish some of our governing documents for public comment, especially when those documents describe how we interact with the public.
+We, [Meta Mesh](http://www.metamesh.org), publish some of our governing documents for public comment, especially when those documents describe how we interact with the public.
 
 ## Contributing
 
